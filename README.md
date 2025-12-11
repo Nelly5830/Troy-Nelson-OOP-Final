@@ -1,11 +1,10 @@
 # Troy-Nelson-OOP-Final
 Troy Nelson OOP Final Submission - Refactoring Code
 
-How to run this program
-
-Download project folder and upload to an IDE.
-Ensure the models folder containing __init__py, fitness_class, member, and trainer is in the project folder
-Run main.py.
+How to run this program:
+1) Download project files from GitHub and upload to an IDE.
+2) Ensure the models folder containing __init__py, fitness_class, member, and trainer is in the project folder
+3) Run main.py.
 
 File Structure:
 OOP Final/ 
